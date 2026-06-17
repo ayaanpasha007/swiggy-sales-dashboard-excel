@@ -6,6 +6,7 @@ Dashboard Preview
 📌 Project Overview
 This project demonstrates how Microsoft Excel can be used as a full-fledged BI tool — without any external software. It covers end-to-end data analysis for a food delivery platform with 197K+ orders across multiple Indian cities and states.
 
+
 📊 Key Metrics Tracked
 Metric	Value
 Total Sales	₹53.01M
