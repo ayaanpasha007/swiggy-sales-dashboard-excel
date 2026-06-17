@@ -43,9 +43,11 @@ Non-Veg orders (34.2M) significantly outperform Veg (18.8M)
 Q2 is the peak sales quarter at ₹19.90M
 Average order value stands at ₹268.51 across 197K+ orders
 All three quarters maintain a consistent rating of 4.3
+
 👤 Author
 [Ayaan Pasha]
 Aspiring Data Analyst
+
 📧 [ayaanpashacloud@gmail.com]
 🔗 [https://www.linkedin.com/in/ayaan-pasha-6278bb29b/]
 
